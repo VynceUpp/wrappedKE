@@ -11,7 +11,7 @@ wrappedKE turns your M-Pesa statement into a beautiful, Spotify Wrapped-style fi
 <img width="1913" height="993" alt="image" src="https://github.com/user-attachments/assets/82dec50e-3413-448e-9550-64d9b5da1367" />
 <img width="1911" height="986" alt="image" src="https://github.com/user-attachments/assets/feb21630-55a6-4824-b1f2-ae3f8b014d45" />
 
-<img width="1411" height="999" alt="image" src="https://github.com/user-attachments/assets/7eb6be9c-f6aa-4674-83fe-cb343e3edaa7" />
+<img width="1383" height="941" alt="image" src="https://github.com/user-attachments/assets/3a418fd4-1272-4823-b337-7c6229822399" />
 
 
 ## Privacy First 🔒
