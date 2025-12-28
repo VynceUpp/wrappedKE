@@ -38,7 +38,7 @@ export function AnalyticsDashboard({ data, onBack }: AnalyticsDashboardProps) {
             </Button>
             <div>
               <h1 className="text-2xl text-gray-900">
-                Finance<span className="text-green-600">Wrapped</span> Dashboard
+                Dashboard
               </h1>
               <p className="text-sm text-gray-600">Your 2024 Financial Analytics</p>
             </div>
